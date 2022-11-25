@@ -1,7 +1,6 @@
-#SLEEP PHASES,#
-##AN ABSTRACT VISUALIZATION OF THE SLEEPING PATTERNS.##
+# SLEEP PHASES, AN ABSTRACT VISUALIZATION OF THE SLEEPING PATTERNS.
 
-##CONCEPT: SLEEP PHASES AND VISUALIZATION##
+## CONCEPT: SLEEP PHASES AND VISUALIZATION
 
 Sleep is unconscious, our aim is to make visible something we can’t really experience ourselves, we can just have sensations about what happens to our body and mind.
 
@@ -29,7 +28,7 @@ In REM sleep, which is the phase where we dream there is absolutely no muscle mo
 
 We decided to show three behaviors: muscle activity, eye movement and perceived images.
 
-##“SLEEP PHASES” HOW DOES IT WORK##
+## “SLEEP PHASES” HOW DOES IT WORK
 
 Our visualization is made of an element (a circle, which represents the sleeping being) that passes through the phases and changes appearance and behaviors. 
 It will go from smaller to bigger from the start to the end of “its night of sleep”.
